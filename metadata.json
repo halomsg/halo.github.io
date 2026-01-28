@@ -1,0 +1,7 @@
+{
+  "name": "Halo Messenger",
+  "description": "A secure, aesthetically pleasing messenger application with robust authentication and a modern UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
